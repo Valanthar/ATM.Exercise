@@ -24,6 +24,14 @@ while (continuar)
         Console.ReadKey(); 
         continue; 
     }
+    if (ValorSaque <= 0)
+    {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("Erro: O valor do saque deve ser maior que zero!");
+        Console.ResetColor();
+        Console.ReadKey();
+        continue;
+    }
     else
     {
 
