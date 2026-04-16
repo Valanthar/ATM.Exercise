@@ -9,7 +9,7 @@
 | **Tecnologias** | **Technologies** |
 | C#, .NET SDK, Git/GitHub. | C#, .NET SDK, Git/GitHub. |
 
----
+----
 
 ## 📋 Lógica de Programação / Programming Logic
 
