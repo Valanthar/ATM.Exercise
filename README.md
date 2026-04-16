@@ -11,16 +11,6 @@
 
 ---
 
-## 🚀 Como Executar / How to Run
-
-| Passo / Step | Comando / Command |
-| :--- | :--- |
-| 1. Clonar / Clone | `git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git` |
-| 2. Entrar na pasta / Enter folder | `cd NOME_DO_REPOSITORIO` |
-| 3. Executar / Run | `dotnet run` |
-
----
-
 ## 📋 Lógica de Programação / Programming Logic
 
 | 🇧🇷 PT-BR | 🇺🇸 EN-US |
