@@ -87,11 +87,6 @@ while (continuar)
             }
         }
         else
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Saque Invalido");
-
-        }
         Console.ForegroundColor = ConsoleColor.White;
         Console.WriteLine("Deseja Realizar outro saque? (S/N)");
         string Resposta = Console.ReadLine().ToUpper();
@@ -100,6 +95,7 @@ while (continuar)
         {
             continuar = false;
             Console.WriteLine("Obrigado por usar o ATM. Até logo!");
+            Console.ReadKey();
         }
     }
 }
